@@ -5,3 +5,4 @@
 
 
 * [Задание: 1, баллов: 5](https://github.com/PersDep/data-mining-intro-2022/blob/main/hw01-numpy.ipynb). Мягкий дедлайн: 29 января 23:59; жёсткий дедлайн: 03 февраля 23:59
+* [Задание: 2, баллов: 5](https://github.com/PersDep/data-mining-intro-2022/blob/main/hw02-pandas.ipynb). Мягкий дедлайн: 10 февраля 23:59; жёсткий дедлайн: 15 февраля 23:59
